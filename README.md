@@ -1,6 +1,8 @@
 # vuedemo
 
 > A Vue.js project
+vue基本使用小结:
+https://www.jianshu.com/p/3dd95e80e913
 
 ## Build Setup
 
