@@ -1,0 +1,21 @@
+//默认
+{
+  "presets": [
+    ["env", { "modules": false }],
+    "stage-3"
+  ]
+}
+
+//按需引入
+//{
+//  "presets": [["env", { "modules": false }]],
+//  "plugins": [
+//    [
+//      "component",
+//      {
+//        "libraryName": "element-ui",
+//        "styleLibraryName": "theme-chalk"
+//      }
+//    ]
+//  ]
+//}
